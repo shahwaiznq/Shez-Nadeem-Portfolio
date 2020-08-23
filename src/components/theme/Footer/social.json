@@ -1,14 +1,14 @@
 [
   {
     "id": 0,
-    "name": "Telegram",
-    "link": "https://t.me/smakosh",
-    "icon": "/icons/telegram.svg"
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/shahwaiznadeem/",
+    "icon": "/icons/linkedin.svg"
   },
   {
     "id": 1,
     "name": "Github",
-    "link": "https://github.com/smakosh",
+    "link": "https://github.com/shahwaiznq/",
     "icon": "/icons/github.svg"
   },
   {
