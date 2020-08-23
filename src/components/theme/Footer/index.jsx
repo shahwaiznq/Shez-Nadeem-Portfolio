@@ -9,7 +9,7 @@ export const Footer = () => (
       <Details>
         <h2>Shez Nadeem</h2>
         <span>
-          Feel free to check out my socials on the right.
+          Feel free to check out, and connect with me on my socials shown here.
         </span>
       </Details>
       <Links>
