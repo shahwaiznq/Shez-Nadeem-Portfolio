@@ -16,11 +16,5 @@
     "name": "StackOverflow",
     "link": "https://stackoverflow.com/users/13797425/shez",
     "icon": "/icons/stackoverflow.svg"
-  },
-  {
-    "id": 3,
-    "name": "Twitter",
-    "link": "https://twitter.com/smakosh",
-    "icon": "/icons/twitter.svg"
   }
 ]
